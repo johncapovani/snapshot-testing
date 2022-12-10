@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+>
+  <img
+    className="card-img"
+    src="https://avatars.githubusercontent.com/u/107085436?v=4"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      John Capovani - Aspiring Software Developer
+    </div>
+    <p
+      className="card-text"
+    >
+      Eager to learn and apply my learnings to real world applications. - A Lifestyle Clothing Creator
+    </p>
+  </div>
+</div>
+`;

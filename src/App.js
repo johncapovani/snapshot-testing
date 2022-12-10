@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import renderer from 'react-test-renderer'
+import GitHubCard from './GitHubCard';
 
 function App() {
   return (
